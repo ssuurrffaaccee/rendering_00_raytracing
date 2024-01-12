@@ -1,0 +1,1 @@
+Key:not uniformly sampling on the visible part of the sphere, but uniformly sampling on the solid angle of the projection of the visible part of the sphere on the scattering hemisphere.
