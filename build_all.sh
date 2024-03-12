@@ -548,4 +548,37 @@ cd ..
 
 
 
+cd 50-triangle
+
+echo 
+echo enter 50-triangle
+
+source ./build_and_run.sh
+
+cd ..
+
+
+
+cd 51-triangle_mesh
+
+echo 
+echo enter 51-triangle_mesh
+
+source ./build_and_run.sh
+
+cd ..
+
+
+
+cd 52-fragment_shader
+
+echo 
+echo enter 52-fragment_shader
+
+source ./build_and_run.sh
+
+cd ..
+
+
+
 python3 -B ./script/gen_readme.py > README.md

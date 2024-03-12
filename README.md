@@ -301,3 +301,21 @@ reference: [Ray Tracing in One Weekend — The Book Series](https://raytracing.g
 
 
 
+## 50 triangle
+
+![demo](./50-triangle/out/xxx.jpg)
+
+
+
+## 51 triangle mesh
+
+![demo](./51-triangle_mesh/out/xxx.jpg)
+
+
+
+## 52 fragment shader
+
+![demo](./52-fragment_shader/out/xxx.jpg)
+
+
+

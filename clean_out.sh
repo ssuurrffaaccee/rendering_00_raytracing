@@ -148,3 +148,12 @@ cd ..
 cd 49-sampling_hittable_list_and_make_sphere_as_light_source
 rm -r ./out
 cd ..
+cd 50-triangle
+rm -r ./out
+cd ..
+cd 51-triangle_mesh
+rm -r ./out
+cd ..
+cd 52-fragment_shader
+rm -r ./out
+cd ..

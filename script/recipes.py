@@ -49,4 +49,7 @@ raytracing_recipes=[
 "47-clean_up_pdf_management",
 "48-sampling_a_sphere_object",
 "49-sampling_hittable_list_and_make_sphere_as_light_source",
+"50-triangle",
+"51-triangle_mesh",
+"52-fragment_shader"
 ]
